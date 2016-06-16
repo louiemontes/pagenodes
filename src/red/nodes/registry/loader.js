@@ -41,7 +41,8 @@ const requiredNodes = [
   require("../nodeDefs/core/io/gamepad"),
   require("../nodeDefs/core/io/voicerec"),
   require('../nodeDefs/core/io/accelerometer'),
-  require('../nodeDefs/core/storage/file')
+  require('../nodeDefs/core/storage/file'),
+  require('../nodeDefs/core/storage/firebase')
 ];
 
 
